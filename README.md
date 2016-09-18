@@ -3,7 +3,7 @@
 
 
 ## Demo
-The [project Demo](https://github.com/cainvan/ReactBannerDemo)
+The [Project Demo](https://github.com/cainvan/ReactBannerDemo)
 
 
 ![Image](https://github.com/cainvan/ReactBannerDemo/blob/master/image/demoImage.gif)
