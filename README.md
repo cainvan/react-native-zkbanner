@@ -1,6 +1,13 @@
 # react-native-zkbanner
 
 
+
+## Demo
+The [project Demo](https://github.com/cainvan/ReactBannerDemo)
+
+
+![Image](https://github.com/cainvan/ReactBannerDemo/blob/master/image/demoImage.gif)
+
 ## Introduction
 
 The aim of this library is to provide reusable React Native components that can Use a network or local image as a dynamic banner.
@@ -75,8 +82,7 @@ const styles = StyleSheet.create({
 AppRegistry.registerComponent('ReactBannerDemo', () => ReactBannerDemo);
 
 ```
-## Demo
-The [project Demo](https://github.com/cainvan/ReactBannerDemo)
+
 
 
 
