@@ -1,0 +1,16 @@
+{
+  "name": "react-native-zkbanner",
+  "version": "1.0.0",
+  "description": "...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "banner",
+    "react-native-zkbanner"
+  ],
+  "author": "Cain",
+  "license": "MIT"
+}
